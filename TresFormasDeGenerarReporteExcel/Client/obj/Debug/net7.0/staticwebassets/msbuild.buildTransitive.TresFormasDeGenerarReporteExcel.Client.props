@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TresFormasDeGenerarReporteExcel.Client.props" />
+</Project>

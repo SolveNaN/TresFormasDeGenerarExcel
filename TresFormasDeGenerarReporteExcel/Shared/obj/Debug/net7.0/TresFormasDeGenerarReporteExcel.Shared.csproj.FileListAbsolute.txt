@@ -1,0 +1,12 @@
+C:\Users\Dagoberto\Downloads\TresFormasDeGenerarReporteExcel\Shared\bin\Debug\net7.0\TresFormasDeGenerarReporteExcel.Shared.deps.json
+C:\Users\Dagoberto\Downloads\TresFormasDeGenerarReporteExcel\Shared\bin\Debug\net7.0\TresFormasDeGenerarReporteExcel.Shared.dll
+C:\Users\Dagoberto\Downloads\TresFormasDeGenerarReporteExcel\Shared\bin\Debug\net7.0\TresFormasDeGenerarReporteExcel.Shared.pdb
+C:\Users\Dagoberto\Downloads\TresFormasDeGenerarReporteExcel\Shared\obj\Debug\net7.0\TresFormasDeGenerarReporteExcel.Shared.csproj.AssemblyReference.cache
+C:\Users\Dagoberto\Downloads\TresFormasDeGenerarReporteExcel\Shared\obj\Debug\net7.0\TresFormasDeGenerarReporteExcel.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dagoberto\Downloads\TresFormasDeGenerarReporteExcel\Shared\obj\Debug\net7.0\TresFormasDeGenerarReporteExcel.Shared.AssemblyInfoInputs.cache
+C:\Users\Dagoberto\Downloads\TresFormasDeGenerarReporteExcel\Shared\obj\Debug\net7.0\TresFormasDeGenerarReporteExcel.Shared.AssemblyInfo.cs
+C:\Users\Dagoberto\Downloads\TresFormasDeGenerarReporteExcel\Shared\obj\Debug\net7.0\TresFormasDeGenerarReporteExcel.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Dagoberto\Downloads\TresFormasDeGenerarReporteExcel\Shared\obj\Debug\net7.0\TresFormasDeGenerarReporteExcel.Shared.dll
+C:\Users\Dagoberto\Downloads\TresFormasDeGenerarReporteExcel\Shared\obj\Debug\net7.0\refint\TresFormasDeGenerarReporteExcel.Shared.dll
+C:\Users\Dagoberto\Downloads\TresFormasDeGenerarReporteExcel\Shared\obj\Debug\net7.0\TresFormasDeGenerarReporteExcel.Shared.pdb
+C:\Users\Dagoberto\Downloads\TresFormasDeGenerarReporteExcel\Shared\obj\Debug\net7.0\ref\TresFormasDeGenerarReporteExcel.Shared.dll
